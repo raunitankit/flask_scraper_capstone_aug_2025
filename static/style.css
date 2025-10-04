@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+h2 {
+    color: #2c3e50;
+}
+.data {
+    border-collapse: collapse;
+    width: 60%;
+}
+.data th, .data td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+.data th {
+    background-color: #2c3e50;
+    color: rgb(228, 229, 236);
+}
